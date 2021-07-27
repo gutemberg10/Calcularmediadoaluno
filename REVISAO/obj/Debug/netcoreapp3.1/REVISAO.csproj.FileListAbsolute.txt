@@ -1,0 +1,39 @@
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.exe
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.deps.json
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.json
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.dev.json
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\source\repos\REVISAO\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.AssemblyReference.cache
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfoInputs.cache
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfo.cs
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\source\repos\REVISAO\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.genruntimeconfig.cache
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.exe
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.deps.json
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.json
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.dev.json
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.AssemblyReference.cache
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfoInputs.cache
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfo.cs
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\source\repos\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.genruntimeconfig.cache
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.exe
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.deps.json
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.json
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.runtimeconfig.dev.json
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\bin\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.AssemblyReference.cache
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfoInputs.cache
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.AssemblyInfo.cs
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.dll
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.pdb
+C:\Users\gutem\Projetos .NET\Introdução a .NET com C#\REVISAO\obj\Debug\netcoreapp3.1\REVISAO.genruntimeconfig.cache
